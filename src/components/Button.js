@@ -14,7 +14,6 @@ Button.defaultProps = {
     color: 'steelblue',
 }
 
-// propTypes 지정
 Button.propTypes = {
     text: PropTypes.string,
     color: PropTypes.string,
