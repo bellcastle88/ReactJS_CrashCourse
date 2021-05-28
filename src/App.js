@@ -5,7 +5,7 @@ const App = () => {
     <div className='container'>
       <Header />
     </div>
-  )
+  ) 
 }
 
 export default App
